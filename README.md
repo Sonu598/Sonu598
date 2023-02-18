@@ -1,8 +1,3 @@
-
-sagar Pradhan
-10:07 PM (0 minutes ago)
-to me
-
 <div align="center">
     <img width="100%" height="250px" src="https://www.giet.edu/wp-content/uploads/2019/08/computer-science.jpg"
         alt="cover" />
@@ -11,14 +6,14 @@ to me
 <h1> Hello
     < Developers />! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50px>
 </h1>
-<h1 align="center"> 👋, I'm Sagar Pradhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center"> 👋, I'm Ishupriya Rath</h1>
+<h3 align="center">A passionate backend developer from India</h3>
 <p align='center'>
 
    
 
 </p>
-<div size='20px'> Hi! My name is Sagar. Thank You for taking the time to view my GitHub Profile :smile:
+<div size='20px'> Hi! My name is Ishupriya. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
 <h2> About Me <img
@@ -31,9 +26,9 @@ to me
 
 - 🔭 I’m currently working on HTML, CSS, JavaScript, MongoDB and Express.js
 
-- 🌱 I’m currently learning React.Js and Redux.Js
+- 🌱 I’m currently learning mongo
 
-- 📫 How to reach me **sagarkumarpradhan2001@gmail.com**
+- 📫 How to reach me **ishupriyarath@gmail.com**
 
 - 👯 I’m looking to collaborate on Hackathon and social media application
 
