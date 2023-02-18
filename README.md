@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100%" height="250px" src="https://www.giet.edu/wp-content/uploads/2019/08/computer-science.jpg"
+    <img width="100%" height="250px" src="[https://www.giet.edu/wp-content/uploads/2019/08/computer-science.jpg](https://unsplash.com/photos/8qEB0fTe9Vw)"
         alt="cover" />
 </div>
 
