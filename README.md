@@ -1,6 +1,5 @@
 <div align="center">
-    <img width="100%" height="400px" src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-        alt="cover" />
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" alt="cover" />
 </div>
 
 <h1> Hello
@@ -16,12 +15,9 @@
 <div size='20px'> Hi! My name is Ishupriya. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
-<h2> About Me <img
-        src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"
-        width=100px></h2>
+<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-<img width="55%" align="right" alt="Github"
-    src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
 - 🔭 I’m currently working on HTML, CSS, JavaScript, MongoDB and Express.js etc...
