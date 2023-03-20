@@ -43,6 +43,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="100px" height=80px> </h2>
 <a href = 'https://linkedin.com/in/ishupriyarath/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/Sonu598'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://sonu598.github.io/'> <img width = '32px' align= 'center' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_u2AHZVC_9VCasWRxwbqHMVGVonWALWPpfHFGJWiBNsC3rTW2lCw4nvh3Ygez6J2jzI&usqp=CAU"/></a> 
 <br>
 
 
